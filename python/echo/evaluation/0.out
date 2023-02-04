@@ -45,5 +45,5 @@ Dit is geen tweedegraadsvergelijking.
 ----------------------------------------
 python input without prompt: true
 block count: multi
-input block size: 1
-output block size: 1 
+input block size: 3
+output block size: 3 
