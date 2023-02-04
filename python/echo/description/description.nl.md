@@ -19,13 +19,17 @@ Python drukt de antwoorden in tekst af.
 **Invoer:**
 
 Geef coëfficiënt a in ax²+bx+c=0. 1
+
 Geef coëfficiënt b in ax²+bx+c=0. -2
+
 Geef coëfficiënt c in ax²+bx+c=0. -3
 
 **Uitvoer:**
 
 De discriminant is 16.
+
 De vergelijking heeft 2 oplossingen: -1.0 en 3.0.
+
 De grafiek is een dalparabool.
 
 ### Voorbeeld
@@ -33,7 +37,9 @@ De grafiek is een dalparabool.
 **Invoer:**
 
 Geef coëfficiënt a in ax²+bx+c=0. 0
+
 Geef coëfficiënt b in ax²+bx+c=0. -5
+
 Geef coëfficiënt c in ax²+bx+c=0. 6
 
 **Uitvoer:**
@@ -45,13 +51,17 @@ Dit is geen tweedegraadsvergelijking.
 **Invoer:**
 
 Geef coëfficiënt a in ax²+bx+c=0. -1
+
 Geef coëfficiënt b in ax²+bx+c=0. -2
+
 Geef coëfficiënt c in ax²+bx+c=0. -3
 
 **Uitvoer:**
 
 De discriminant is -8.
+
 De vergelijking heeft geen oplossingen.
+
 De grafiek is een bergparabool.
 
 ### Voorbeeld
@@ -59,11 +69,15 @@ De grafiek is een bergparabool.
 **Invoer:**
 
 Geef coëfficiënt a in ax²+bx+c=0. 4
+
 Geef coëfficiënt b in ax²+bx+c=0. 4
+
 Geef coëfficiënt c in ax²+bx+c=0. 1
 
 **Uitvoer:**
 
 De discriminant is 0.
+
 De vergelijking heeft 1 oplossing: -0.5.
+
 De grafiek is een dalparabool.
