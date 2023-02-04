@@ -1,0 +1,11 @@
+{
+  "description": {
+    "names": {
+      "nl": "Priemgetallen"
+    }
+  },
+  "evaluation": {
+    "pythia_judge": "output"
+  },
+  "labels": []
+}
