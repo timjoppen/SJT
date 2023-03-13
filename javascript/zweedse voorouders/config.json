@@ -5,6 +5,13 @@
       "nl": "Zweedse voorouders"
     }
   },
-  "evaluation": {},
-  "labels": []
+  "evaluation": {
+  },
+  "labels": [
+
+  ],
+  "internals": {
+    "token": "F25jRMnBmpTXTbxNgp5idFdtPRmFY4mMH5-qyIfndx2bktPCyqGMrTSjYBqKeyUx",
+    "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
+  }
 }
