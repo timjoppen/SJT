@@ -5,6 +5,13 @@
       "nl": "t-test"
     }
   },
-  "labels": [],
-  "evaluation": {}
+  "labels": [
+
+  ],
+  "evaluation": {
+  },
+  "internals": {
+    "token": "TZcQvVNmyKdxrTcgBhhvNSrNrtYjKu9XMcfgQ9ZknNYPAJNarZxuZj4F6TSzgrT7",
+    "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
+  }
 }
