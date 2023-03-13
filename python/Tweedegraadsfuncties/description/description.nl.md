@@ -2,13 +2,13 @@
 
 ### Opgave
 
-Maak een programma om tweedegraadsvergelijkingen op te lossen. Het programma moet de coëfficiënten opvragen. Daarmee moet de discriminant, het aantal oplossingen, de oplossing en de vorm van de parabool beschreven worden.
+Maak een programma om tweedegraadsvergelijkingen op te lossen. Het programma moet de (gehele) coëfficiënten opvragen. Daarmee moet de discriminant, het aantal oplossingen, de oplossing en de vorm van de parabool beschreven worden.
 
 Als er voor de coëfficiënt a '0' wordt ingegeven, moet er gemeld worden dat dit geen tweedegraadsvergelijking is.
 
 ### Invoer
 
-Je geeft 3 inputvariabelen in: de 3 coëfficiënten van de standaardvergelijking.
+Je geeft 3 inputvariabelen in: de 3 (gehele) coëfficiënten van de standaardvergelijking.
 
 ### Uitvoer
 

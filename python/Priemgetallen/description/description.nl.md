@@ -4,7 +4,7 @@
 
 Maak een programma om priemgetallen te detecteren. Het programma vraagt een getal op en controleert dan of het een priemgetal is of niet.
 Een priemgetal is een getal dat enkel deelbaar is door 1 en door zichzelf. Om dit na te gaan, controleer je of het gegeven getal deelbaar is
-door elk natuurlijk getal kleiner dan de wortel van het gegeven getal.
+door elk natuurlijk getal groter dan 1 en kleiner dan het gegeven getal.
 TIP: tel het aantal delers.
 
 ### Invoer
