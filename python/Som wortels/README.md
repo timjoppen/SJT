@@ -1,0 +1,1 @@
+_nl:_ Dit is de tweede oefening voor het DP Computationeel Denken. Schrijf een programma dat Bereken de som van elementen met n = 1, 2, … wanneer het getal onder de wortel deelbaar is door 3 of door 5 tot de som meer is dan een gegeven getal.

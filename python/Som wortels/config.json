@@ -1,0 +1,11 @@
+{
+  "description": {
+    "names": {
+      "nl": "Som wortels"
+    }
+  },
+  "evaluation": {
+    "pythia_judge": "output"
+  },
+  "labels": []
+}
