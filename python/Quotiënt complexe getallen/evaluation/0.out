@@ -1,22 +1,37 @@
-De modulus is 0,125.
-Het argument is -180.
-Het quotiënt is 0,125 . (cos -180 – i sin -180)
-De oplossing ligt op de X-as.
+De modulus is 0.125.
+Het argument is -180.0.
+Het quotiënt is 0.125 . (cos -180.0 - i sin -180.0).
+Het getal ligt op de X-as.
 Dit is een reëel getal.
-De modulus is 0,125.
-Het argument is -90.
-Het quotiënt is 0,125 . (cos -90 – i sin -90)
+De modulus is 0.125.
+Het argument is -90.0.
+Het quotiënt is 0.125 . (cos -90.0 - i sin -90.0).
 Het complexe getal ligt op de Y-as.
 Dit is een zuiver imaginair getal.
-De modulus is 2.
-Het argument is -150.
-Het quotiënt is 2 . (cos -150 – i sin -150)
+De modulus is 2.0.
+Het argument is -150.0.
+Het quotiënt is 2.0 . (cos -150.0 - i sin -150.0).
 Het complexe getal ligt in het 3de kwadrant.
 Dit is een imaginair getal.
-De modulus is 3.
-Het argument is 60.
-Het quotiënt is 3 . (cos 60 – i sin 60)
+De modulus is 3.0.
+Het argument is 60.0.
+Het quotiënt is 3.0 . (cos 60.0 - i sin 60.0).
 Het complexe getal ligt in het 1ste kwadrant.
+Dit is een imaginair getal.
+De modulus is 2.0.
+Het argument is 30.0.
+Het quotiënt is 2.0 . (cos 30.0 - i sin 30.0).
+Het complexe getal ligt in het 1ste kwadrant.
+Dit is een imaginair getal.
+De modulus is 3.0.
+Het argument is 120.0.
+Het quotiënt is 3.0 . (cos 120.0 - i sin 120.0).
+Het complexe getal ligt in het 2de kwadrant.
+Dit is een imaginair getal.
+De modulus is 2.0.
+Het argument is -160.0.
+Het quotiënt is 2.0 . (cos -160.0 - i sin -160.0).
+Het complexe getal ligt in het 3de kwadrant.
 Dit is een imaginair getal.
 ----------------------------------------
 python input without prompt: true

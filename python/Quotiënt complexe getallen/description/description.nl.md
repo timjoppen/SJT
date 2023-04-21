@@ -18,7 +18,7 @@ Python drukt de antwoorden in tekst af.
 
 **Invoer:**
 
-Geef de modulus van het eerste complex getal: 0,5
+Geef de modulus van het eerste complex getal: 0.5
 
 Geef het argument van het eerste complex getal: 135
 
@@ -28,13 +28,13 @@ Geef het argument van het tweede complex getal: 315
 
 **Uitvoer:**
 
-De modulus is 0,125.
+De modulus is 0.125.
 
-Het argument is -180.
+Het argument is -180.0.
 
-Het quotiënt is 0,125 . (cos -180 – i sin -180)
+Het quotiënt is 0.125 . (cos -180.0 - i sin -180.0).
 
-De oplossing ligt op de X-as.
+Het getal ligt op de X-as.
 
 Dit is een reëel getal.
 
@@ -42,7 +42,7 @@ Dit is een reëel getal.
 
 **Invoer:**
 
-Geef de modulus van het eerste complex getal: 0,5
+Geef de modulus van het eerste complex getal: 0.5
 
 Geef het argument van het eerste complex getal: 30
 
@@ -52,11 +52,11 @@ Geef het argument van het tweede complex getal: 120
 
 **Uitvoer:**
 
-De modulus is 0,125.
+De modulus is 0.125.
 
-Het argument is -90.
+Het argument is -90.0.
 
-Het quotiënt is 0,125 . (cos -90 – i sin -90)
+Het quotiënt is 0.125 . (cos -90.0 - i sin -90.0).
 
 Het complexe getal ligt op de Y-as.
 
@@ -76,11 +76,11 @@ Geef het argument van het tweede complex getal: 90
 
 **Uitvoer:**
 
-De modulus is 2.
+De modulus is 2.0.
 
-Het argument is -150.
+Het argument is -150.0.
 
-Het quotiënt is 2 . (cos -150 – i sin -150)
+Het quotiënt is 2.0 . (cos -150.0 - i sin -150.0).
 
 Het complexe getal ligt in het 3de kwadrant.
 
@@ -98,11 +98,11 @@ Geef het argument van het tweede complex getal: -90
 
 **Uitvoer:**
 
-De modulus is 3.
+De modulus is 3.0.
 
-Het argument is 60.
+Het argument is 60.0.
 
-Het quotiënt is 3 . (cos 60 – i sin 60)
+Het quotiënt is 3.0 . (cos 60.0 - i sin 60.0).
 
 Het complexe getal ligt in het 1ste kwadrant.
 
