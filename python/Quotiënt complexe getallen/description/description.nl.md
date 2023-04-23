@@ -32,7 +32,7 @@ De modulus is 0.125.
 
 Het argument is -180.0.
 
-Het quotiënt is 0.125 . (cos -180.0 - i sin -180.0).
+Het quotiënt is 0.125 . (cos -180.0 + i sin -180.0).
 
 Het getal ligt op de X-as.
 
@@ -56,7 +56,7 @@ De modulus is 0.125.
 
 Het argument is -90.0.
 
-Het quotiënt is 0.125 . (cos -90.0 - i sin -90.0).
+Het quotiënt is 0.125 . (cos -90.0 + i sin -90.0).
 
 Het complexe getal ligt op de Y-as.
 
@@ -80,7 +80,7 @@ De modulus is 2.0.
 
 Het argument is -150.0.
 
-Het quotiënt is 2.0 . (cos -150.0 - i sin -150.0).
+Het quotiënt is 2.0 . (cos -150.0 + i sin -150.0).
 
 Het complexe getal ligt in het 3de kwadrant.
 
@@ -102,7 +102,7 @@ De modulus is 3.0.
 
 Het argument is 60.0.
 
-Het quotiënt is 3.0 . (cos 60.0 - i sin 60.0).
+Het quotiënt is 3.0 . (cos 60.0 + i sin 60.0).
 
 Het complexe getal ligt in het 1ste kwadrant.
 
